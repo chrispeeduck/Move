@@ -16,4 +16,10 @@ This movement will have the following ideals:
 - the movement is by the people, for the people 
 - leaderships of the movement must be elected by the members for each areas
 
+The formation of manifesto for any new movement will follow the method done by Github in term of version control. From the main manifesto, a member will be able to put forward a new suggestion upon which multiple parties can work on them and eventually there will be a vote to commit the suggestion as part of the main manifesto.
 
+The is a high possibility that a permission based hyper ledger will be used to developed most of the DAPP. Only the part which will require a decision such as below will require some form of smart contract to commit them into the block chain.
+- voting on leadership positions
+- addition to the movement manifesto 
+
+How this application will grow will hopefully be through collective development. Anyone interested to be part of the team will be most welcome. 
